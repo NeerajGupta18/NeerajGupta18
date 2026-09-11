@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/NeerajGupta18/NeerajGupta18/main/assets/portrait.svg" width="400" alt="Neeraj Gupta" />
+<img src="https://raw.githubusercontent.com/NeerajGupta18/NeerajGupta18/main/assets/portrait.svg" width="230" alt="Neeraj Gupta" />
 
 [![typing banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Neeraj+Gupta;Full-Stack+%2B+Agentic+AI+Engineer;React+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+LangGraph;Competitive+Programmer+in+Training)](https://github.com/NeerajGupta18)
 
