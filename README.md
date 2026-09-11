@@ -24,8 +24,8 @@ Hi, I'm **Neeraj Gupta**. I build full-stack platforms — React, Node.js, FastA
 
 - Currently building **[ShelfVue AI](https://github.com/NeerajGupta18/ShelfVue-AI)** — a full-stack AI copilot for retail inventory
 - Final-year BTech CSE (AI & Data Science) @ MIT World Peace University, Pune
-- Learning: <!-- edit: e.g. "scaling multi-agent systems" -->
-- Fun fact: <!-- edit: add yours -->
+- Learning: **building production-ready agentic AI systems and scalable RAG pipelines**
+- Fun fact: **I like building AI agents that actually take actions instead of just generating text.**
 
 ---
 
