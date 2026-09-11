@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/NeerajGupta18/NeerajGupta18/main/assets/photo.png" width="180" style="border-radius:50%" alt="Neeraj Gupta" />
+
 [![typing banner](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Neeraj+Gupta;Full-Stack+%2B+Agentic+AI+Engineer;React+%C2%B7+Node.js+%C2%B7+FastAPI+%C2%B7+LangGraph;Competitive+Programmer+in+Training)](https://github.com/NeerajGupta18)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neerajgupta18)
@@ -33,17 +35,11 @@ Hi, I'm **Neeraj Gupta**. I build full-stack platforms — React, Node.js, FastA
 
 ---
 
-## `~/` skill radar
-
 <div align="center">
-<img src="https://quickchart.io/chart?width=420&height=320&backgroundColor=%230d1117&c={type:'radar',data:{labels:['React/Node','Python','LangGraph%2FRAG','FastAPI','SQL%2FNoSQL','DSA'],datasets:[{label:'Skill%20level',data:[8,9,8,8,7,6],backgroundColor:'rgba(57,211,83,0.25)',borderColor:'%2339D353',pointBackgroundColor:'%2339D353'}]},options:{plugins:{legend:{display:false}},scales:{r:{angleLines:{color:'%23333'},grid:{color:'%23333'},pointLabels:{color:'%23c9d1d9'},ticks:{display:false,max:10,min:0}}}}}" alt="skill radar chart" />
+
+`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`
+
 </div>
-
-> Edit the `data` values (0–10) in the URL above to match your own self-assessment — no server or Action needed, QuickChart renders it live.
-
----
-
-## `~/` contribution calendar
 
 ![3D isometric contribution calendar](https://raw.githubusercontent.com/NeerajGupta18/NeerajGupta18/main/assets/metrics.isocalendar.svg)
 
